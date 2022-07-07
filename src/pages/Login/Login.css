@@ -1,0 +1,24 @@
+.containerLogin {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.principalBox {
+    height: 90%;
+    width: 40%;
+    padding: 20px;
+    background-color: lightsteelblue;
+}
